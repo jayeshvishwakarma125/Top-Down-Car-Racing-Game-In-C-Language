@@ -194,8 +194,8 @@ Some possible improvements include:
 
 ## Author
 
-**Jiya Bhandari**
 **Jayesh Vishwakarma**
+**Jiya Bhandari**
 **Ayush Jha**
 
 A C/C++ graphics-based mini project demonstrating game development concepts such as:
